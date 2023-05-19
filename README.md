@@ -1,5 +1,5 @@
 👋
-**PHP** / **MySQL** / **HTML/CSS** / **WordPress**
-Programming since 2013
-Currently: Webadministrator at FGU Syd- og Midtfyn
+**PHP** / **MySQL** / **HTML/CSS** / **WordPress**<br>
+Programming since 2013<br>
+Currently: Webadministrator at FGU Syd- og Midtfyn<br>
 http://dextropol.com
