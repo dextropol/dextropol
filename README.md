@@ -1,2 +1,5 @@
-Web-dev, currently employed by FGU Syd- og Midtfyn
-E-mail: mathias@dextropol.com
+👋
+**PHP** / **MySQL** / **HTML/CSS** / **WordPress**
+Programming since 2013
+Currently: Webadministrator at FGU Syd- og Midtfyn
+http://dextropol.com
